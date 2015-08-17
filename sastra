@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html><head>
+<title>CSI - SASTRA University</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="description" content="" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript" src="js/prettify.js"></script>                                   <!-- PRETTIFY -->
+<script type="text/javascript" src="js/kickstart.js"></script>                                  <!-- KICKSTART -->
+<link rel="stylesheet" type="text/css" href="css/kickstart.css" media="all" />                  <!-- KICKSTART -->
+<link rel="stylesheet" type="text/css" href="style.css" media="all" />                          <!-- CUSTOM STYLES -->
+</head><body>
+
+<div class="grid">
+	<div id="wrap" class="clearfix">
+<!-- ===================================== END HEADER ===================================== -->
+
+
+	
+	<!-- MENU HORIZONTAL -->
+	<div class="col_12">
+	<pre><center><h4>       COMPUTER SOCIETY OF INDIA<br>
+	SASTRA University</h4></center>
+	</pre>
+	
+	<ul class="menu">
+	<li><a href="index.html">Home</a></li>
+	<li><a href="csi.html">About Sastra CSI</a></li>
+	<li class="current"><a href="">About SASTRA University</a></li>
+	<li><a href="events.html"><span class="icon" data-icon=""></span>Events and Activities</a>
+		<ul>
+		<li><a href=""><span class="icon" data-icon=""></span>2014</a>
+		<ul>
+		<li><a href=""><span class="icon" data-icon=""></span>TECHUNT - Webpreneur Workshop</a></li>
+		</ul>
+		</li>
+		<li><a href=""><span class="icon" data-icon=""></span>2015</a>
+			<ul>
+			<li><a href=""><span class="icon" data-icon=""></span>Daksh'15</a></li>
+			<li><a href=""><span class="icon" data-icon=""></span>NS2 Workshop</a></li>
+			<li><a href=""><span class="icon" data-icon=""></span>Event3</a></li>
+			<li><a href=""><span class="icon" data-icon=""></span>Event4</a></li>
+			</ul>
+		</li>
+		<li class="divider"><a href=""><span class="icon" data-icon=""></span>Older Events</a></li>
+		</ul>
+	</li>
+	<li><a href="">Contact</a></li>
+	<li><a href="">Gallery</a></li>
+	
+	<li><a href=""><span class="icon social large blue" data-icon="F"></span></a></li>
+	<li><a href=""><span class="icon social large blue" data-icon="T"></span></a></li>
+	<li><a href=""><span class="icon social large blue" data-icon="G"></span></a></li>
+	</ul>
+	</div>
+	</div>
+
+<div id="type-example" class="tab-content" >
+<div class="col_3">
+ <ul class="alt">
+<li><a href="#">SASTRA University</a></li>
+<li><a href="#mission">Mission</a></li><li>
+
+
+</ul>
+</div>
+
+	<div class="col_6">
+<h4>SASTRA University</h4>
+<!-- Caption -->
+<img src="./images/1.jpg"class="caption" title="SASTRA University" src="http://placehold.it/400x350/4D99E0/ffffff.png&text=400x350" width="400" height="350" />
+<p align="justify">   The very name Sastra has grown to be synonymous with excellence in education and the Sastra Educational Trust 
+was formed in 1987, with the sole purpose of providing cutting edge technical education that is both accessible and affordable by establishing 
+premier colleges of Engineering and Management studies. Under the aegis of our honourable Chairman, the esteemed Dr. Sastra, Sastra Engineering 
+College was inaugurated on 15th August 2001 as one of the spearheading institutions of Sastra Educational Trust. The Chairman
+has led the college from its fledgling state to an institution to reckon with. 
+The vision of our chairman  and his dedication to the cause of technical education combined with their dynamic approach to leadership has 
+made a telling difference to the growth of the college. 
+The boundless energy of Dr. Sushil Lal Das, principal of the college, is also a source of inspiration to our students.</p>
+ 
+	<p align="justify">SASTRA University is affiliated to Anna University and in the short period 
+	since it was started has grown into an institution that provides excellent technical education while keeping the 
+	overall growth and development of the students in mind. Both academic and non-academic activities are given equal importance, 
+	at SASTRA University we take our students’ success very seriously. Accomplished staff, quality driven innovation and 
+	superior accountability are the reasons for the students achievements both in academic and co-curricular activities. The college is
+	committed to equip future graduates with the knowledge and skills 
+	necessary to work and excel in the ever more competitive global environment. </p>
+	<br>
+	<div id="mission">
+	<h5>Vision Statement</h5>
+    <p align="justify">    <ul>  <li>  To build SASTRA University an Institution of Academic Excellence in </li><br>
+		<li>	Technical Education and Management Education and to become a world class University.</li><br>
+</ul>
+	</p>
+	<p align="justify">
+<h5>Mission of the College</h5>
+<ul>
+<li>To establish sustainable partnerships with Industries, Educational Institutions and R&D Laboratories for mutual benefits.
+</li><br>
+<li>To include high moral, ethical and professional standards among our students and to improve their total personality</li><br>
+<li>To be an effective source of technical manpower for the nation</li><br>
+<li>To facilitate the development of Entrepreneurial competencies in Students.</li><br>
+</ul></p>
+<h5>Quality Policy</h5>
+<p align="justify">
+   To devlop manpower with enriched knowledge in the fields of engineering, technology and mangement, inculcating 
+   ethics and discipline thereby constantly upgrading the quality of education to meet the challenges of the 21st Century, for the growth of our Nation.
+</p>	</div>
+	</div>
+	
+	
+	
+	
+	
+	<div id="images-example" class="tab-content" >
+	
+	<div class="col_4">
+<h4>SASTRA University</h4>
+ <p align="justify"> Computer Society of India established in the year 1965 is today the largest IT professionals Society in India. 
+ The purposes of the Society are scientific and educational directed towards the advancement of the theory and practice
+	of computer science, computer engineering 
+	and technology, systems science and engineering, information processing and related arts and sciences. </p>
+	<a href="">Read more about SASTRA University</a>
+	</div>
+	</div>
+
+<!-- ===================================== START FOOTER ===================================== -->
+	</div><!-- END WRAP -->
+</div><!-- END GRID-->
+
+</body></html>
